@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF3131&center=true&vCenter=true&width=950&lines=Software+Engineering+Graduate;Full+Stack+Developer;Flutter+%7C+Django+%7C+React+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+%26+Mobile+Applications+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=950&lines=Software+Engineering+Graduate;Full+Stack+Developer;Flutter+%7C+Django+%7C+React+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+%26+Mobile+Applications+🚀"/>
 
 <br/><br/>
 
@@ -112,7 +112,7 @@ machine learning and YOLO-based detection technologies.
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 
 ---
 
@@ -155,7 +155,7 @@ machine learning and YOLO-based detection technologies.
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter"/>
 <img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square&logo=yolo"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
 
 </td>
 
@@ -255,17 +255,17 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=ffffff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ano-2k&theme=radical&hide_border=true&background=0D1117&ring=FF3131&fire=ffffff&currStreakLabel=FF3131"/>
-
-<br/><br/>
-
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ano-2k&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ano-2k&theme=github_dark"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ano-2k&theme=radical"/>
 
 </div>
 
@@ -275,10 +275,7 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
