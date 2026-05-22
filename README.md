@@ -228,17 +228,11 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
-
-<img height="190em" src="https://streak-stats.demolab.com?user=ano-2k&theme=radical&hide_border=true">
+<img height="180em" src="https://streak-stats.demolab.com?user=ano-2k&theme=radical&hide_border=true">
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ano-2k&theme=radical">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ano-2k&theme=redical&hide_border=true&bg_color=0D1117&color=ff3131&line=ff3131&point=ffffff">
 
 </div>
 
@@ -248,7 +242,7 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 
 </div>
 
