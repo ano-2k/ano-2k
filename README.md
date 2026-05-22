@@ -261,7 +261,7 @@ machine learning and YOLO-based detection technologies.
 <br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ano-2k&theme=react-dark&bg_color=14151f&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ano-2k&repo=AI-Agricultural-Intelligence-System&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -271,7 +271,7 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%23ff3131&color_dots=%231a1a1a,%234b0000,%238b0000,%23ff3131,%23ffffff"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="background: #ffffff; border-radius: 6px; padding: 15px;" alt="Cosmic Source Code Stream"/>
 
 </div>
 
