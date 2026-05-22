@@ -96,7 +96,7 @@ machine learning and YOLO-based detection technologies.
 
 ---
 
-## 🤖 Machine Learning
+## 🤖 AI / ML
 
 <br/>
 
@@ -255,13 +255,15 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=ano-2k&theme=dark&hide_border=true&fire=ff3131&ring=ff3131&currStreakNum=ffffff"/>
+<img height="195em" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=ano-2k&show_icons=true&theme=dark&hide_border=true&title_color=ff3131&icon_color=ff3131&text_color=ffffff&bg_color=121212&count_private=true&include_all_commits=true"/>
+
+<img height="195em" src="https://streak-stats.demolab.com?user=ano-2k&theme=dark&hide_border=true&fire=ff3131&ring=ff3131&currStreakNum=ffffff"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/repo-size/ano-2k/AI-Agricultural-Intelligence-System?style=for-the-badge&label=Core%20Project%20Size&labelColor=1a1a1a&color=ff3131"/>&nbsp;
-<img src="https://img.shields.io/badge/Dynamic_Live_Commits-Calculated_On_Load-ff3131?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/github/directory-file-count/ano-2k/AI-Agricultural-Intelligence-System?style=for-the-badge&label=System%20Assets&labelColor=1a1a1a&color=ffffff"/>
+<img src="https://img.shields.io/github/followers/ano-2k?style=for-the-badge&label=Network%20Followers&labelColor=1a1a1a&color=ff3131"/>&nbsp;
+<img src="https://img.shields.io/github/stars/ano-2k?style=for-the-badge&label=Total%20Earned%20Stars&labelColor=1a1a1a&color=ffffff"/>&nbsp;
+<img src="https://img.shields.io/github/search/ano-2k?query=user%3Aano-2k&style=for-the-badge&label=Total%20Repositories&labelColor=1a1a1a&color=ff3131"/>
 
 </div>
 
