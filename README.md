@@ -255,13 +255,13 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ano-2k&theme=radical&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ano-2k&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 <br/><br/>
 
@@ -271,11 +271,11 @@ machine learning and YOLO-based detection technologies.
 
 ---
 
-# ⚡ Contribution Animation
+# ⚡ Developer Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
 </div>
 
