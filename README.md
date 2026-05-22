@@ -255,14 +255,13 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=dark&hide_border=true&title_color=ff3131&icon_color=ff3131&text_color=ffffff&bg_color=000000&cache_seconds=1800"/>
 <img height="180em" src="https://streak-stats.demolab.com?user=ano-2k&theme=dark&hide_border=true&fire=ff3131&ring=ff3131&currStreakNum=ffffff"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Public_Repositories-14_Repos-ff3131?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Total_Contributions-209_Commits-ffffff?style=for-the-badge&logo=git&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Account_Age-2_Years_Active-ff3131?style=for-the-badge"/>
+<img src="https://img.shields.io/github/repo-size/ano-2k/AI-Agricultural-Intelligence-System?style=for-the-badge&label=Core%20Project%20Size&labelColor=1a1a1a&color=ff3131"/>&nbsp;
+<img src="https://img.shields.io/badge/Dynamic_Live_Commits-Calculated_On_Load-ff3131?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/github/directory-file-count/ano-2k/AI-Agricultural-Intelligence-System?style=for-the-badge&label=System%20Assets&labelColor=1a1a1a&color=ffffff"/>
 
 </div>
 
