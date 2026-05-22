@@ -150,13 +150,6 @@ machine learning and YOLO-based detection technologies.
 - Flask Backend Integration
 - Real-Time Smart Predictions
 
-### ⚙️ Technologies
-
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter"/>
-<img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
-
 </td>
 
 <td width="50%" valign="top">
@@ -171,15 +164,7 @@ machine learning and YOLO-based detection technologies.
 - Full Stack Web Platform
 - Planned University Adoption
 
-### ⚙️ Technologies
-
-<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql"/>
-
-<br/><br/>
+<br/>
 
 <a href="https://nupannel.zentrixon.com">
 <img src="https://img.shields.io/badge/LIVE_DEMO-red?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -200,13 +185,6 @@ machine learning and YOLO-based detection technologies.
 - Shopping Cart System
 - Frontend & Backend Integration
 
-### ⚙️ Technologies
-
-<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php"/>
-<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript"/>
-
 </td>
 
 <td width="50%" valign="top">
@@ -219,11 +197,6 @@ machine learning and YOLO-based detection technologies.
 - Smart Question Generation
 - Mobile Learning Platform
 - Topic-Based Quiz System
-
-### ⚙️ Technologies
-
-<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk"/>
-<img src="https://img.shields.io/badge/Android-111111?style=flat-square&logo=android"/>
 
 </td>
 </tr>
@@ -255,13 +228,13 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=radical&hide_border=true&title_color=ff3131&icon_color=ff3131&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="195em" src="https://streak-stats.demolab.com?user=ano-2k&theme=radical&hide_border=true&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ffffff"/>
+<img height="190em" src="https://streak-stats.demolab.com?user=ano-2k&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3131&text_color=ffffff"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
@@ -269,11 +242,9 @@ machine learning and YOLO-based detection technologies.
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/ano-2k?style=for-the-badge&label=Followers&labelColor=111111&color=ff3131"/>
+<img src="https://img.shields.io/github/followers/ano-2k?style=for-the-badge&color=red&labelColor=111111"/>
 
-<img src="https://img.shields.io/github/stars/ano-2k?style=for-the-badge&label=Stars&labelColor=111111&color=ffffff"/>
-
-<img src="https://img.shields.io/github/repos/ano-2k?style=for-the-badge&label=Repositories&labelColor=111111&color=ff3131"/>
+<img src="https://img.shields.io/github/stars/ano-2k?style=for-the-badge&color=white&labelColor=111111"/>
 
 </div>
 
@@ -283,7 +254,7 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
