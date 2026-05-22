@@ -240,12 +240,6 @@ machine learning and YOLO-based detection technologies.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ano-2k&theme=radical"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/ano-2k?style=for-the-badge&color=red&labelColor=111111"/>
-
-<img src="https://img.shields.io/github/stars/ano-2k?style=for-the-badge&color=white&labelColor=111111"/>
-
 </div>
 
 ---
@@ -254,7 +248,7 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
