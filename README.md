@@ -255,23 +255,32 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=ano-2k&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=dark&hide_border=true&title_color=ff3131&icon_color=ff3131&text_color=ffffff&bg_color=000000&cache_seconds=1800"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ano-2k&theme=dark&hide_border=true&fire=ff3131&ring=ff3131&currStreakNum=ffffff"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ano-2k&repo=AI-Agricultural-Intelligence-System&theme=radical&hide_border=true"/>
+<img src="https://img.shields.io/badge/Public_Repositories-14_Repos-ff3131?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Total_Contributions-209_Commits-ffffff?style=for-the-badge&logo=git&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Account_Age-2_Years_Active-ff3131?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌌 Cosmic Source Code Stream
+# ⚡ Cosmic Lightning Source Stream
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="background: #ffffff; border-radius: 6px; padding: 15px;" alt="Cosmic Source Code Stream"/>
+<table>
+<tr>
+<td bgcolor="#ffffff" align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="background: #ffffff; border-radius: 4px; padding: 10px;" width="850px" alt="Cosmic Lightning Stream"/>
+<br/>
+</td>
+</tr>
+</table>
 
 </div>
 
