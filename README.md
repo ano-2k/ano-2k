@@ -96,7 +96,7 @@ machine learning and YOLO-based detection technologies.
 
 ---
 
-## 🤖 AI / ML
+## 🤖 Machine Learning
 
 <br/>
 
@@ -255,33 +255,35 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img height="195em" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=ano-2k&show_icons=true&theme=dark&hide_border=true&title_color=ff3131&icon_color=ff3131&text_color=ffffff&bg_color=121212&count_private=true&include_all_commits=true"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=radical&hide_border=true&title_color=ff3131&icon_color=ff3131&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true"/>
 
-<img height="195em" src="https://streak-stats.demolab.com?user=ano-2k&theme=dark&hide_border=true&fire=ff3131&ring=ff3131&currStreakNum=ffffff"/>
+<img height="195em" src="https://streak-stats.demolab.com?user=ano-2k&theme=radical&hide_border=true&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ffffff"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/ano-2k?style=for-the-badge&label=Network%20Followers&labelColor=1a1a1a&color=ff3131"/>&nbsp;
-<img src="https://img.shields.io/github/stars/ano-2k?style=for-the-badge&label=Total%20Earned%20Stars&labelColor=1a1a1a&color=ffffff"/>&nbsp;
-<img src="https://img.shields.io/github/search/ano-2k?query=user%3Aano-2k&style=for-the-badge&label=Total%20Repositories&labelColor=1a1a1a&color=ff3131"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3131&text_color=ffffff"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ano-2k&theme=radical"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/ano-2k?style=for-the-badge&label=Followers&labelColor=111111&color=ff3131"/>
+
+<img src="https://img.shields.io/github/stars/ano-2k?style=for-the-badge&label=Stars&labelColor=111111&color=ffffff"/>
+
+<img src="https://img.shields.io/github/repos/ano-2k?style=for-the-badge&label=Repositories&labelColor=111111&color=ff3131"/>
 
 </div>
 
 ---
 
-# ⚡ Cosmic Lightning Source Stream
+# ⚡ Activity Stream
 
 <div align="center">
 
-<table>
-<tr>
-<td bgcolor="#ffffff" align="center">
-<br/>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="background: #ffffff; border-radius: 4px; padding: 10px;" width="850px" alt="Cosmic Lightning Stream"/>
-<br/>
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
