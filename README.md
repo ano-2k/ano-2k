@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,35:1a0000,70:8B0000,100:ff1a1a&text=ANOJAN%20UTHAYAKUMAR&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20|%20Full%20Stack%20Developer%20|%20Flutter%20•%20Django%20•%20React%20•%20AI/ML%20Enthusiast&descAlignY=60&descSize=18&descColor=f5f5f5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:1a1a1a,50:4b0000,75:8b0000,100:ff3131&text=ANOJAN%20UTHAYAKUMAR&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20|%20Full%20Stack%20Developer%20|%20Flutter%20•%20Django%20•%20React%20•%20AI/ML%20Enthusiast&descAlignY=60&descSize=19&descColor=ffffff"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF3131&center=true&vCenter=true&width=950&lines=Software+Engineering+Graduate;Full+Stack+Developer;Flutter+%7C+Django+%7C+React+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+%26+Mobile+Applications+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF3131&center=true&vCenter=true&width=950&lines=Software+Engineering+Graduate;Full+Stack+Developer;Flutter+%7C+Django+%7C+React+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+%26+Mobile+Applications+🚀"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/ano2k">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -40,13 +40,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=850&lines=Software+Developer;Full+Stack+Developer;Flutter+%7C+Django+%7C+React;Machine+Learning+Enthusiast"/>
+<table>
+<tr>
+<td width="85%">
 
-</div>
+<p align="justify">
 
-<br/>
-
-```yaml
 I am a Software Engineering graduate from SLIIT Northern Uni, having
 completed a degree awarded by the University of Bedfordshire and currently
 awaiting final results and graduation. I am passionate about leveraging
@@ -56,7 +55,14 @@ and managing scalable web applications. I also have practical experience in
 mobile application development using Flutter, Dart, Python, and Firebase.
 Additionally, I have worked on AI-powered agricultural solutions involving
 machine learning and YOLO-based detection technologies.
-```
+
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -76,7 +82,7 @@ machine learning and YOLO-based detection technologies.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REST_API-B30000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 ---
 
@@ -86,27 +92,27 @@ machine learning and YOLO-based detection technologies.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Firestore-FF6B00?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 ---
 
 ## 🤖 Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CatBoost-FFD600?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/SVM-2962FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Logistic_Regression-AA00FF?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Random_Forest-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-B22222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-DC143C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CatBoost-FF3131?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SVM-990000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Logistic_Regression-CC0000?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=github&logoColor=red"/>
-<img src="https://img.shields.io/badge/scikit--learn-8B0000?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=00FFFF"/>
 
 ---
 
@@ -116,9 +122,9 @@ machine learning and YOLO-based detection technologies.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Anaconda-8B0000?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-B30000?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL_Workbench-660000?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
@@ -146,10 +152,10 @@ machine learning and YOLO-based detection technologies.
 
 ### ⚙️ Technologies
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter"/>
+<img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square&logo=yolo"/>
 
 </td>
 
@@ -167,13 +173,17 @@ machine learning and YOLO-based detection technologies.
 
 ### ⚙️ Technologies
 
-![HTML](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql)
+<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql"/>
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-red?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nupannel.zentrixon.com)
+<br/><br/>
+
+<a href="https://nupannel.zentrixon.com">
+<img src="https://img.shields.io/badge/LIVE_DEMO-red?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -192,10 +202,10 @@ machine learning and YOLO-based detection technologies.
 
 ### ⚙️ Technologies
 
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php)
-![HTML](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
+<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript"/>
 
 </td>
 
@@ -212,8 +222,8 @@ machine learning and YOLO-based detection technologies.
 
 ### ⚙️ Technologies
 
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk)
-![Android](https://img.shields.io/badge/Android-111111?style=flat-square&logo=android)
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Android-111111?style=flat-square&logo=android"/>
 
 </td>
 </tr>
@@ -231,9 +241,11 @@ machine learning and YOLO-based detection technologies.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🏆_Dean's_List-Year_01_Semester_02-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏆_Dean's_List-Year_02_Semester_01-B22222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏆_Dean's_List-Year_02_Semester_02-FF3131?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆_Dean's_List-Year_01_Semester_02-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏆_Dean's_List-Year_02_Semester_01-2962FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏆_Dean's_List-Year_02_Semester_02-AA00FF?style=for-the-badge"/>
 
 </div>
 
@@ -265,7 +277,7 @@ machine learning and YOLO-based detection technologies.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -302,7 +314,7 @@ machine learning and YOLO-based detection technologies.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,35:1a0000,70:8B0000,100:ff1a1a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,25:1a1a1a,50:4b0000,75:8b0000,100:ff3131"/>
 
 ### 🚀 The best way to predict the future is to build it.
 
