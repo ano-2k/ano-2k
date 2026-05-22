@@ -1,212 +1,253 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:1a5276,100:0d1117&height=200&section=header&text=Anojan%20Uthayakumar&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=60&descSize=16&descColor=7ecfff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,50:302B63,100:24243E&text=ANOJAN%20UTHAYAKUMAR&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20•%20Django%20•%20Flutter%20•%20AI/ML&descAlignY=60&descSize=18"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;React+%7C+Django+%7C+Flutter+%7C+ML%2FDL%2FCV;Turning+coffee+into+clean+code+%E2%98%95;From+Jaffna+to+the+world+%F0%9F%8C%8D;AI+Enthusiast+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Graduate;React+%7C+Django+%7C+Flutter+Developer;AI+%2F+ML+%2F+Computer+Vision+Engineer;Building+Scalable+Web+%26+Mobile+Applications;Turning+Ideas+Into+Reality+🚀" />
+
+<br/>
+
+<a href="https://linkedin.com/in/ano2k">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/>
+<a href="mailto:anoaadhik@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ano-2k&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://linkedin.com/in/ano2k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anoaadhik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ano-2k"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<a href="https://github.com/ano-2k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=ano-2k&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-## `$ whoami`
+# 💫 About Me
 
-```python
-class Anojan:
-    name        = "Anojan Uthayakumar"
-    pronouns    = "he/him"
-    location    = "Jaffna, Sri Lanka 🇱🇰"
-    education   = "B.Sc. (Hons) Software Engineering @ Uni of Bedfordshire"
-    currently   = "Software Developer Intern @ Vulture Lines (Chennai, India 🇮🇳)"
-    passions    = ["AI/ML", "Computer Vision", "Full-Stack Dev", "Flutter"]
-    fun_fact    = "I built an AI system for chilli farmers with 96% accuracy 🌶️🤖"
-    coffee_per_day = float("inf")  # ☕ essential fuel
+```yaml
+Name: Anojan Uthayakumar
+Location: Jaffna, Sri Lanka 🇱🇰
+Education: BSc (Hons) Software Engineering
+Specialization: Full Stack Development & AI Solutions
+
+Currently Working With:
+  - React
+  - Django
+  - Flutter
+  - Firebase
+  - Machine Learning
+  - Computer Vision
+
+Focus:
+  - Scalable Web Applications
+  - Mobile App Development
+  - AI-Powered Solutions
+  - REST APIs
 ```
 
 ---
 
-## `$ ls -la /skills`
+# ⚡ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🎨 Frontend
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,bootstrap,js" />
 
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+---
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+## ⚙️ Backend
 
-### 🔧 Dev Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,django,java,dart,php" />
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+---
+
+## 🗄️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+---
+
+## 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-00F5FF?style=for-the-badge&logo=opencv&logoColor=black"/>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,pycharm" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
 ---
 
-## `$ cat /projects/featured.json`
+# 🚀 Featured Projects
 
-<details>
-<summary>🌶️ <strong>AI Agricultural Intelligence System</strong> — Final Year Project</summary>
-<br/>
+## 🌶️ AI Agricultural Intelligence System
 
-> **An end-to-end intelligent system for chilli farming using AI, IoT & Computer Vision**
+> AI-powered smart farming system for chilli cultivation using Machine Learning, IoT & Computer Vision.
 
-- 🎯 **96% accuracy** in aflatoxin risk prediction using hybrid ML models
-- 🔍 YOLO-based detection & segmentation for multi-condition fruit analysis
-- 🤖 Invented a novel **Robotic Pickability Index (RPI)** for smart harvesting
-- 📱 Flutter mobile app with Flask backend for real-time farmer predictions
-- 🌐 Bridging the gap between AI research and real-world agriculture
+### 🔥 Features
+- 96% prediction accuracy
+- YOLO-based fruit detection & segmentation
+- Robotic Pickability Index (RPI)
+- Flutter mobile application
+- Flask backend integration
 
-`Python` `Flutter` `Flask` `YOLO` `TensorFlow` `Computer Vision` `IoT`
+### ⚙️ Technologies
+`Python` `Flutter` `TensorFlow` `YOLO` `Computer Vision` `Flask`
 
-</details>
+---
 
-<details>
-<summary>🏛️ <strong>SLIITNU PANEL</strong> — University Admin Portal</summary>
-<br/>
+## 🏛️ SLIITNU PANEL
 
-> **A comprehensive web-based administration portal for SLIIT Northern University**
+> Web-based administration platform developed for SLIIT Northern University.
 
-- 📋 Digitised university administrative processes end-to-end
-- ⚡ Reduced manual work significantly, improved operational efficiency
-- 🚀 **Officially adopted by the university** for future use
-- 🔗 Live: [nupannel.zentrixon.com](https://nupannel.zentrixon.com)
+### 🔥 Features
+- Digitized administrative workflows
+- Improved operational efficiency
+- Full-stack web system
+- Planned for university adoption
 
+### ⚙️ Technologies
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-</details>
+🔗 https://nupannel.zentrixon.com
 
-<details>
-<summary>📚 <strong>BookWorld</strong> — E-Commerce Book Platform</summary>
-<br/>
+---
 
-> **Full-stack e-commerce website for browsing and purchasing books online**
+## 📚 BookWorld
 
-- 🛒 Complete frontend + backend implementation
-- 💳 Book browsing, cart, and purchase flow
-- 🌐 Built with PHP, HTML, CSS, JavaScript
+> Full-stack e-commerce website for online book purchasing.
 
+### ⚙️ Technologies
 `PHP` `HTML` `CSS` `JavaScript` `MySQL`
 
-</details>
+---
 
-<details>
-<summary>🧠 <strong>LearnQuick</strong> — AI Question Generator App</summary>
-<br/>
+## 🧠 LearnQuick
 
-> **Mobile app that auto-generates quiz questions based on user-input topics**
+> AI-powered mobile application for automatic quiz question generation.
 
-- 📖 AI-driven question generation for rapid learning
-- 📱 Built in Java for Android
-
+### ⚙️ Technologies
 `Java` `Android`
 
-</details>
-
 ---
 
-## `$ cat /stats/github.log`
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ano-2k&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ano-2k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=00F5FF"/>
 
-<br/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ano-2k&theme=tokyonight&hide_border=true&background=00000000&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano-2k&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5FF"/>
 
 </div>
 
 ---
 
-## `$ cat /awards/deans_list.txt`
-
-```
-╔══════════════════════════════════════════════════════╗
-║              🏆  DEAN'S LIST AWARDS  🏆              ║
-╠══════════════════════════════════════════════════════╣
-║  ✅  Year 01 Semester 02  —  SLIIT City Uni          ║
-║  ✅  Year 02 Semester 01  —  SLIIT City Uni          ║
-║  ✅  Year 02 Semester 02  —  SLIIT City Uni          ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
-## `$ ping /connect`
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/ano2k](https://linkedin.com/in/ano2k) |
-| 📸 Instagram | [@a.n.o._.2k](https://instagram.com/a.n.o._.2k) |
-| 🎥 YouTube | [@ano_2k](https://youtube.com/@ano_2k) |
-| 📧 Email | [anoaadhik@gmail.com](mailto:anoaadhik@gmail.com) |
-| 🌐 Portfolio | [ano-2k.github.io](https://ano-2k.github.io) |
+<img src="https://github-profile-trophy.vercel.app/?username=ano-2k&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-## `$ watch /contributions/snake`
+# 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ano-2k/ano-2k/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ano-2k/ano-2k/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ano-2k/ano-2k/output/github-snake-dark.svg" />
-  </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ano-2k&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+
 </div>
 
 ---
 
-<!-- FOOTER -->
+# 🐍 Contribution Snake Animation
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:1a5276,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-*"The best way to predict the future is to build it."* 🚀
+</div>
 
-⭐ **If you like what you see, leave a star on something!** ⭐
+---
+
+# 🏅 Achievements
+
+🏆 Dean’s List — Year 01 Semester 02  
+🏆 Dean’s List — Year 02 Semester 01  
+🏆 Dean’s List — Year 02 Semester 02  
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ano2k">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anoaadhik@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ano-2k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F0C29,50:302B63,100:24243E"/>
+
+### 🚀 “The best way to predict the future is to build it.”
+
+⭐ If you like my work, consider giving a star ⭐
 
 </div>
